@@ -39,6 +39,14 @@ color: #002776;
 font-family: cambria;
 }
 
+.link:hover {
+opacity:0.8!important;
+width:200px;
+color: #ffffff;
+background:#002776;
+width:0px;
+}
+
 .side {
   width: 250px;
   position: fixed;

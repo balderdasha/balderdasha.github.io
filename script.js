@@ -1,7 +1,6 @@
 const quotes = Object.freeze([
-  "Do or do not, there is no try.",
-  "It's not my fault.",
-  "I find your lack of faith disturbing."
+  "I love you.",
+  "I miss you.",
 ]);
 
 function update() {
