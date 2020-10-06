@@ -16,6 +16,14 @@ font-family: garamond;
     margin-right: 1.0em;
 }
 
+.ptitle {
+    font-size: 1.25em;
+    color: #002776;
+font-style: italic;
+font-family: georgia;
+    margin-right: 1.0em;
+}
+
 .subtitle {
     margin-top: 0.75em;
     font-size: 1.25em;
